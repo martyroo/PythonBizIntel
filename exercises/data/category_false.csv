@@ -1,0 +1,13 @@
+product,category,units_sold,unit_price,revenue
+Espresso,Coffee,320,3.5,1120.0
+Cappuccino,Coffee,280,4.5,1260.0
+Latte,Coffee,250,4.9,1225.0
+Green Tea,Tea,180,3.2,576.0
+Chai Latte,Tea,150,4.7,705.0
+Croissant,Pastry,200,3.8,760.0
+Blueberry Muffin,Pastry,170,4.2,714.0
+Cinnamon Roll,Pastry,130,4.5,585.0
+Iced Americano,Coffee,210,4.0,840.0
+Matcha Latte,Tea,120,5.2,624.0
+Bagel,Pastry,160,3.5,560.0
+Flat White,Coffee,190,4.6,874.0

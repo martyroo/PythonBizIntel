@@ -5,7 +5,7 @@ This repository contains the course work for 2586 Python Programming for Busines
 <pre>
 +-- assignments/        
 |    +-- assignment1/       # Completed
-|    +-- assignment2/
+|    +-- assignment2/       # Completed
 |    +-- assignment3/
 +-- exercises/
 +-- project/
